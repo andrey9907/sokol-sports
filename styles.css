@@ -1,0 +1,49 @@
+body {
+    text-align: center;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,117,1) 35%, rgba(255,119,0,1) 100%);00%);
+}
+img {
+    height: 600px;
+    width: 400px
+
+}
+a {
+    font-size:45px;
+}
+h1 {
+font-size: 140px;
+color: #292f56
+}
+p {
+font-size: 40px;
+color: #00a3a4
+}
+p2 {
+font-size: 40px;
+color: #acfa70
+}
+h2 {
+color: #acfa70
+
+}
+h3 {
+font-size: 90px;
+color : white;
+}
+h4 {
+font-size: 90px;
+color : yellow;
+}
+h5 {
+font-size: 90px;
+color : white;
+}
+header {
+font-size: 35px;
+color: white;
+}
+hr {
+color: red;
+}
+
